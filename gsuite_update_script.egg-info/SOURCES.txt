@@ -1,0 +1,8 @@
+README.rst
+setup.py
+gsuite_update_script/__init__.py
+gsuite_update_script/gsuite-update.py
+gsuite_update_script.egg-info/PKG-INFO
+gsuite_update_script.egg-info/SOURCES.txt
+gsuite_update_script.egg-info/dependency_links.txt
+gsuite_update_script.egg-info/top_level.txt

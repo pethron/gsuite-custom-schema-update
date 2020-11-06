@@ -1,0 +1,8 @@
+- email: john.doe@mydomain.net
+  federations:
+    - account: 123456789123
+      role: fooRole
+      provider: fooProvider
+    - account: 345678912345
+      role: barRole
+      provider: barProvider
